@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\xpc\\documents\\proyectoredesapi24\\contaminadosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\xpc\\documents\\proyectoredesapi24\\contaminadosapi\\contaminadosapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\contaminadosapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\xpc\\documents\\proyectoredesapi24\\contaminadosapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\xpc\\documents\\proyectoredesapi24\\contaminadosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\xpc\\documents\\proyectoredesapi24\\contaminadosapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\xpc\\documents\\proyectoredesapi24\\contaminadosapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\xpc\\documents\\proyectoredesapi24\\contaminadosapi\\contaminadosapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\contaminadosapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\xpc\\documents\\proyectoredesapi24\\contaminadosapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\xpc\\documents\\proyectoredesapi24\\contaminadosapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\xpc\\documents\\proyectoredesapi24\\contaminadosapi\\models\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\models\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\xpc\\documents\\proyectoredesapi24\\contaminadosapi\\data\\contaminadosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\data\\contaminadosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\docker-compose.yml",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\docker-compose.yml",
+              "RelativeToolTip": "ContaminaDOSApi\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-24T17:38:11.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\Dockerfile",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\Dockerfile",
+              "RelativeToolTip": "ContaminaDOSApi\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T17:37:03.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ContaminaDOSApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T17:28:48.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContaminaDOSApi",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\ContaminaDOSApi.csproj",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\ContaminaDOSApi.csproj",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\ContaminaDOSApi.csproj",
+              "RelativeToolTip": "ContaminaDOSApi\\ContaminaDOSApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T17:28:33.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\appsettings.Development.json",
+              "RelativeToolTip": "ContaminaDOSApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T17:27:49.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaminaDOSApi.http",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\ContaminaDOSApi.http",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\ContaminaDOSApi.http",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\ContaminaDOSApi.http",
+              "RelativeToolTip": "ContaminaDOSApi\\ContaminaDOSApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-24T17:20:51.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\appsettings.json",
+              "RelativeToolTip": "ContaminaDOSApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T17:16:57.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\Program.cs",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\Program.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\Program.cs",
+              "RelativeToolTip": "ContaminaDOSApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:15:21.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\models\\GameLogic.cs",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\models\\GameLogic.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\models\\GameLogic.cs",
+              "RelativeToolTip": "ContaminaDOSApi\\models\\GameLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:03:30.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\controllers\\GameController.cs",
+              "RelativeToolTip": "ContaminaDOSApi\\controllers\\GameController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:38:37.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContaminaDosDb.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\data\\ContaminaDosDb.cs",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\data\\ContaminaDosDb.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\ProyectoRedesAPI24\\ContaminaDOSApi\\data\\ContaminaDosDb.cs",
+              "RelativeToolTip": "ContaminaDOSApi\\data\\ContaminaDosDb.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:19:15.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,20 +1,29 @@
+using ContaminaDOSApi.data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Configurar Kestrel solo para HTTP
-builder.WebHost.ConfigureKestrel(options =>
+// Habilitar CORS
+builder.Services.AddCors(options =>
 {
-    options.ListenAnyIP(5000); // HTTP
-     options.ListenAnyIP(5001, listenOptions =>
-     {
-        listenOptions.UseHttps(); // HTTPS
-     });
+    options.AddPolicy("AllowAll",
+        policy => policy
+            .AllowAnyOrigin()  // Permite cualquier origen
+            .AllowAnyMethod()  // Permite cualquier método (GET, POST, etc.)
+            .AllowAnyHeader()); // Permite cualquier encabezado
 });
+
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddDbContext<ContaminaDosDb>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 var app = builder.Build();
+
+app.UseCors("AllowAll");
 
 if (app.Environment.IsDevelopment())
 {
@@ -22,7 +31,14 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseDefaultFiles();
+
+app.UseStaticFiles();
+
 app.UseHttpsRedirection();
+
 app.UseAuthorization();
+
 app.MapControllers();
+
 app.Run();
